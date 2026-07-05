@@ -1,0 +1,12 @@
+{"version":1,
+"pack-format":1,
+"desc":"1、“青岭城”风格包将会在下次风格包大更新时移除\n2、青岭府城风格包制作中，欢迎提供建议\n3、餐厅的复合建筑已取消共享架子以防止可能的bug，已建造的建筑请将餐厅、面包房和厨房分别进行修复操作\n",
+"authors":[
+    "B站:IiI鱼老板IiI(TianHuEric)"
+],
+"mods":[
+    "structurize"
+],
+"name":"A-青岭告示板-A",
+"icon":"qlc.png"
+}
