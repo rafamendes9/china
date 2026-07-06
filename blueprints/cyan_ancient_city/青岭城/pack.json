@@ -1,0 +1,12 @@
+{"version":1,
+"pack-format":1,
+"desc":"为因建筑无法升级而设立，不必打开使用此包，仅为让旧版本建筑升级而已\n该包蓝图不会在此后更新，请移步新青岭城",
+"authors":[
+    "IiI鱼老板IiI(TianHuEric)"
+],
+"mods":[
+    "structurize"
+],
+"name":"青岭城",
+"icon":"qlc.png"
+}

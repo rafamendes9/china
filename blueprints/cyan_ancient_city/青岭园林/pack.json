@@ -1,0 +1,12 @@
+{"version":1,
+"pack-format":1,
+"desc":"专注于园林装饰的风格包，属于青岭城的DLC\n无市民工作建筑\n如在建造过程有建筑错误或有改进建议请及时向作者反馈\n",
+"authors":[
+    "B站:IiI鱼老板IiI(TianHuEric)"
+],
+"mods":[
+    "structurize"
+],
+"name":"青岭园林",
+"icon":"qlc.png"
+}
